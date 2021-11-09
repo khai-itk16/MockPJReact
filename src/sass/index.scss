@@ -1,0 +1,31 @@
+.logo {
+  float: left;
+  margin-right: 20px;
+
+  img {
+    height: 30px;
+  }
+}
+
+.form-container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.ant-menu-overflow {
+  justify-content: end;
+}
+
+.ant-layout-header {
+  padding: 0 20px;
+}
+
+.custom-card {
+  .ant-card-cover {
+    margin: 0 !important;
+  }
+}
+
+.ant-layout-sider {
+  background: unset;
+}
